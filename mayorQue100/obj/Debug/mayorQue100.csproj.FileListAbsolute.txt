@@ -1,0 +1,5 @@
+F:\VisualStudio\C#\01\mayorQue100\mayorQue100\bin\Debug\mayorQue100.exe.config
+F:\VisualStudio\C#\01\mayorQue100\mayorQue100\bin\Debug\mayorQue100.exe
+F:\VisualStudio\C#\01\mayorQue100\mayorQue100\bin\Debug\mayorQue100.pdb
+F:\VisualStudio\C#\01\mayorQue100\mayorQue100\obj\Debug\mayorQue100.exe
+F:\VisualStudio\C#\01\mayorQue100\mayorQue100\obj\Debug\mayorQue100.pdb
